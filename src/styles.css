@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.landing-page {
+  background-image: url('/images/background.jpg');
+  text-align: center;
+  padding: 50px;
+}
+
+.product-list, .shopping-cart {
+  padding: 20px;
+}
+
+.plant-card, .cart-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.header {
+  background: #333;
+  color: white;
+  padding: 10px;
+}
+
+.header a {
+  color: white;
+  margin: 10px;
+  text-decoration: none;
+}
